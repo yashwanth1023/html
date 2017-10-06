@@ -135,7 +135,7 @@ h1,h2,h3{line-height:40px;}
 h1{display: none; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;}
 h2{font-size:31.5px;}
 h3{font-size:24.5px;}
-h4{font-size:17.5px;}
+h4{align:left; class:mobile; style="font-family: 'Montserrat', Arial, sans-serif; font-size:18px; line-height:24px; color:#222222; padding:0; margin:0; text-transform:uppercase; font-weight:bold;" class="body-text"}
 h5{font-size:14px;}
 h6{font-size:11.9px;}
 h1 small{font-size:24.5px;}
